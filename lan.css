@@ -1,0 +1,39 @@
+header{
+    text-transform:uppercase;
+    font-size: 50;
+    margin:20;
+}
+nav ul{
+    list-style-type: none;
+    overflow:hidden;
+    }
+    nav li{
+        font-style: oblique;
+            float:right;
+    } 
+    nav li a{
+        padding:10 10;
+        display:inline-block;
+        text-decoration:none;
+                
+    }
+    li:hover{
+        background-color:bisque;
+        font-size:larger
+    }
+    
+    h4{
+        text-align: center;
+        text-transform:uppercase;
+        font-family: cursive
+    }      
+  #majah{
+        width:30%;
+        margin-left: 38%;
+        line-height: 2;
+        font-size:larger;
+        font-family: 'scada', 'carrois gothic', 'comic san'; 
+  }
+  #majah:hover{
+      background-color: green
+  }
